@@ -1,0 +1,7 @@
+{
+    "name": "ex2",
+    "private": true,
+    "dependencies": {
+        "jquery":"latest"
+    }
+}
